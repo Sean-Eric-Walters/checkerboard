@@ -1,0 +1,24 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+
+table tr td{
+    height: 50px;
+    width: 50px;
+}
+
+table{
+    border-spacing: 0px;
+}
+
+
+
+.black{
+    background-color: black;
+}
+
+.red{
+    background-color: red;
+}
